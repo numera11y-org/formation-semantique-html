@@ -1,3 +1,5 @@
+https://github.com/numera11y-org/a11y/blob/main/images/numera11y.png
+
 # Formation HTML sémantique
 
 Cette formation a pour objectif d'enseigner les bonnes pratiques de HTML sémantique, en mettant l'accent sur l'accessibilité et le respect des normes RGAA et WCAG.
