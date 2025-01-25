@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="images/numera11y.png" alt="numera11y">
+  <img src="numera11y.png" alt="numera11y">
 </h1>
 
 # Formation HTML sémantique
