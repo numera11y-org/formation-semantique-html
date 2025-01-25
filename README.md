@@ -10,14 +10,15 @@ Cette formation a pour objectif d'enseigner les bonnes pratiques de HTML sémant
 
 La formation est structurée en plusieurs chapitres :
 
-1. Introduction à la sémantique HTML et à l'accessibilité web
-2. Fondamentaux de la qualité web selon le modèle VPTCS
-3. Structure sémantique des pages HTML
-4. Sémantique des éléments interactifs
-5. Images et médias accessibles
-6. Techniques avancées d'accessibilité
-7. Tests et validation
-8. Bonnes pratiques et workflow
+1. [Introduction à la sémantique HTML et à l'accessibilité web](introduction.md)
+2. [Fondamentaux de la qualité web selon le modèle VPTCS](fondamentaux.md)
+3. [Structure sémantique des pages HTML](structure-semantique.md)
+4. [Sémantique des éléments interactifs](semantique-interactif.md)
+5. [Images et médias accessibles](media.md)
+6. [Techniques avancées d'accessibilité](techniques-avancees-accessibilite.md)
+7. [Tests et validation](tests-validation.md)
+8. [Bonnes pratiques et workflow](bonnes-pratiques-workflow.md)
+9. [Mise en pratique](mise-en-pratique.md)
 
 Chaque chapitre contient :
 - Des explications théoriques
