@@ -54,7 +54,5 @@ Ce contenu de formation est sous licence Creative Commons Attribution-ShareAlike
 
 ## Contact
 
-Pour toute question ou suggestion concernant cette formation, veuillez contacter [votre adresse e-mail ou autre moyen de contact].
+Pour toute question ou suggestion concernant cette formation, veuillez contacter [contact@numera11y.fr](mailto:contact@numera11y.fr).
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/11004111/50a40477-5758-41d1-b07b-a6b3db81a456/GD_OPQUAST-GUIDE-CERTIFICATION_FR-V502_202402.pdf
