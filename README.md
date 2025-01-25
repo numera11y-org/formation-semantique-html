@@ -1,4 +1,6 @@
-https://github.com/numera11y-org/a11y/blob/main/images/numera11y.png
+<h1 align="center">
+  <img src="images/numera11y.png" alt="numera11y">
+</h1>
 
 # Formation HTML sémantique
 
